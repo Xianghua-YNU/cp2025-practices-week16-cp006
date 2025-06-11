@@ -1,6 +1,3 @@
-"""Module: Quantum Tunneling Solution
-File: quantum_tunneling_solution.py
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import animation
